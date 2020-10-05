@@ -8,9 +8,10 @@
 
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubham4756&count_private=true&show_icons=true&theme=cobalt)
+|--|
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4756&layout=compact&theme=cobalt&langs_count=6&hide=Ruby)
-
+|--|
 
 ### Few Profile links:
 
