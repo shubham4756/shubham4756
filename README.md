@@ -10,7 +10,7 @@
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubham4756&show_icons=true&theme=cobalt)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4756&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4756&layout=compact&theme=cobalt)
 
 
 ### Few Profile links:
