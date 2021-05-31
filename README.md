@@ -26,4 +26,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham4756&repo=Code&theme=cobalt)](https://github.com/shubham4756/Code) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham4756&repo=MyCart&theme=cobalt)](https://github.com/shubham4756/MyCart)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham4756&repo=Social-Media-Users-Database-Managment-System&theme=cobalt)](https://github.com/shubham4756/Social-Media-Users-Database-Managment-System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham4756&repo=Document-Scrutiny-System&theme=cobalt)](https://github.com/shubham4756/Document-Scrutiny-System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham4756&repo=todo-app&theme=cobalt)](https://github.com/shubham4756/todo-app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham4756&repo=FYB&theme=cobalt)](https://github.com/shubham4756/FYB)
